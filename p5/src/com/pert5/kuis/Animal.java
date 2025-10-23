@@ -1,4 +1,4 @@
-package Praktikum.p5.src.com.pert5.kuis;
+package com.pert5.kuis;
 
 public class Animal {
     private String nama;

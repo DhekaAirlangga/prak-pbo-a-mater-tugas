@@ -1,4 +1,4 @@
-package Praktikum.p5.src.com.pert5;
+package com.pert5.enkapulasi;
 
 public class Person {
     private String nama;

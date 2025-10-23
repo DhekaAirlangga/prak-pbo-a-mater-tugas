@@ -1,4 +1,4 @@
-package Praktikum.p5.src.com.pert5.enkapulasi;
+package com.pert5.enkapulasi;
 
 public class App {
     public static void main(String[] args) throws Exception {

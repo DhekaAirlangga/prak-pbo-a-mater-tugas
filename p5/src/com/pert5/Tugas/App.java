@@ -1,4 +1,4 @@
-package Praktikum.p5.src.com.pert5.Tugas;
+package com.pert5.Tugas;
 
 import java.util.Scanner;
 
